@@ -13,7 +13,11 @@ var locales = {
 			'Action' : 'Action',
 			'Actions' : 'Actions',
 			'SaveData' : 'Save data',
-			'AreYouSure' : 'Are you sure?'
+			'AreYouSure' : 'Are you sure?',
+
+			'ConfirmAction' : 'Confirm Action',
+			'Ok' : 'OK',
+			'Cancel' : 'Cancel',
 		},
 	},
 	'ru': {
@@ -21,6 +25,7 @@ var locales = {
 			'Enter' : 'Вход',
 			'Begin' : 'Начало',
 			'Save' : 'Сохранить',
+			'Cancel' : 'Отмена',
 			'Close' : 'Закрыть',
 			'Remove' : 'Удалить',
 			'Edit' : 'Редактировать',
@@ -30,9 +35,11 @@ var locales = {
 			'Action' : 'Действие',
 			'Actions' : 'Действия',
 			'SaveData' : 'Сохранить данные',
-			'AreYouSure' : 'Вы уверены?'
+			'AreYouSure' : 'Вы уверены?',
 
-			
+			'ConfirmAction' : 'Подтверждение действия',
+			'Ok' : 'OK',
+			'Cancel' : 'Отмена',
 		},
 		
 	}
