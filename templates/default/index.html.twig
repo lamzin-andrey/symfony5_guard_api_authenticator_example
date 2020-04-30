@@ -4,7 +4,14 @@
 
 {% block body %}
 <div class="example-wrapper">
-    <h1>Hello! ✅</h1>
+    <div id="app">
+        <vue-spa-traning></vue-spa-traning>
+    </div>
     <a href="{{  path('app_login') }}">Signin</a>
 </div>
+{% endblock %}
+
+
+{% block javascripts %}
+    <script src="{{ asset('js/0.js') }}"></script>
 {% endblock %}
