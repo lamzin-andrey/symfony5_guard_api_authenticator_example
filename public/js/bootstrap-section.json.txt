@@ -1,0 +1,9 @@
+npm install vue bootstrap-vue bootstrap
+
+
+,
+	"dependencies": {
+		"popper": "^1.0.1",
+		"popper.js": "^1.15.0",
+		"bootstrap": "^4.4.1"
+	}

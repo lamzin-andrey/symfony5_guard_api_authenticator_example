@@ -2,6 +2,7 @@
 ###> symfony/framework-bundle ###
 .env
 public/js/sources/spa/app.js
+/public/js/node_modules/
 /.env.local
 /.env.local.php
 /.env.*.local
